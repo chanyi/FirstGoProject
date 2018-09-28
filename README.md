@@ -1,0 +1,2 @@
+# FirstGoProject
+go start
